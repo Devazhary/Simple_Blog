@@ -19,7 +19,7 @@ Simple blog project made of laravel framework and simple html and css
 ## Pics Of Project
 
 ### Home Page
-<img src="ProjectScreenshots/homePage.pnghomePage.png" width="600">
+<img src="ProjectScreenshots/homePage.png" width="600">
 
 ### Post Page
 <img src="ProjectScreenshots/postPage.png" width="600">
