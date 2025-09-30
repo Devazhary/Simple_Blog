@@ -25,7 +25,7 @@ Simple blog project made of laravel framework and simple html and css
 <img src="ProjectScreenshots/postPage.png" width="600">
 
 ### Create Page
-<img src="ProjectScreenshots/createPage2.png" width="600">
+<img src="ProjectScreenshots/createPage.png" width="600">
 
 ### Using Pagination
 <img src="ProjectScreenshots/pagination.png" width="600">
