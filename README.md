@@ -18,7 +18,14 @@ Simple blog project made of laravel framework and simple html and css
 
 ## Pics Of Project
 
-<img src="C:\Users\ahmed\OneDrive\Pictures\Screenshots\Screenshot 2025-09-30 124522.png">
-<img src="C:\Users\ahmed\OneDrive\Pictures\Screenshots\Screenshot 2025-09-30 125109.png">
-<img src="C:\Users\ahmed\OneDrive\Pictures\Screenshots\Screenshot 2025-09-30 125141.png">
-<img src="C:\Users\ahmed\OneDrive\Pictures\Screenshots\Screenshot 2025-09-30 093501.png">
+### Home Page
+<img src="ProjectScreenshots/homePage.pnghomePage.png" width="600">
+
+### Post Page
+<img src="ProjectScreenshots/postPage.png" width="600">
+
+### Create Page
+<img src="ProjectScreenshots/createPage.png" width="600">
+
+### Using Pagination
+<img src="ProjectScreenshots/pagination.png" width="600">
