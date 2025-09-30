@@ -8,7 +8,7 @@ Simple blog project made of laravel framework and simple html and css
 2- Upload Images For Posts<br>
 3- Show Any Post You Write<br>
 
-## Technologies User
+## Technologies Use
 
 1- Laravel 12<br>
 2- MySQL<br>
@@ -34,4 +34,4 @@ Simple blog project made of laravel framework and simple html and css
 
 ### Clone the repository
 git clone https://github.com/Devazhary/Simple_Blog.git
-cd Simple_Blog
+<br>cd Simple_Blog
